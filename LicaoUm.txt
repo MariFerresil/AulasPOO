@@ -1,0 +1,36 @@
+ Classe-> Necromante
+{
+ Raça -> Vampiro
+ status -> Vida 
+ status -> mana 
+ Arma -> Usa um cajado
+ Habilidade 1 -> Revive os mortos
+ Habilidade 2 -> Manipula magia obscura
+ Passiva -> Roubo de vida
+}
+
+--> Ferreiro
+{
+ Raça -> humano anão 
+ status -> Vida
+ status -> Material
+ Habilidade 1 -> Criar as próprias armas
+ Habilidade 2 -> Pode conceder o efeito de chamas na arma
+ Passiva -> Bonus de dano com as próprias armas 
+}
+--> Druida
+{
+ Raça -> humano Idoso
+ status -> Vida
+ status -> Harmonia
+ Arma -> Usa as mãos como arma ou patas
+ habilidade -> Pode se transformar em Animal (Urso, Crocodilo, Águia. )
+ Passiva -> Em contato com a natureza ganha uma regeneração de vida.
+}
+Peladinho (Hard mode)
+{
+  Raça -> Humano
+  status -> Vida = 1
+  arma -> porrete
+  Não tem habilidades
+}
