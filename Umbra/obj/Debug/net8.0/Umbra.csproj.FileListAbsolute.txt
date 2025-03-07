@@ -1,0 +1,5 @@
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.AssemblyInfoInputs.cache
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.AssemblyInfo.cs
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.csproj.CoreCompileInputs.cache
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.sourcelink.json
