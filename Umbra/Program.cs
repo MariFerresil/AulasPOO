@@ -6,10 +6,16 @@ internal class Program
     {
         Druida druid = new Druida();
         PublicaVidaPersonagem(druid);
+        Necromante necromance = new Necromante();
+        PublicaVidaPersonagem(necromance);
+        Peladinho naked = new Peladinho();
+        PublicaVidaPersonagem(naked);
+        Ferreiro blacksmith = new Ferreiro();
+        PublicaVidaPersonagem(blacksmith);
     }
-    void PublicaVidaPersonagem(Personagem Personagem)
+    static void PublicaVidaPersonagem(Personagem personagem)
     {
-        Console.WriteLine("Tipo: {0}, Vida: {1}, BarraDePoder {2}", Personagem.GetType().Name, Personagem.Vida, Personagem.BarraDePoder);
+        Console.WriteLine("Tipo: {0}, Vida: {1}, BarraDePoder: {2}", personagem.GetType().Name, personagem.Vida, personagem.BarraDePoder);
 
     }
 }
