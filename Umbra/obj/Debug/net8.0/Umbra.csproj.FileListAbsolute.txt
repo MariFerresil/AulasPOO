@@ -3,3 +3,13 @@ C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.AssemblyInfoInputs.cache
 C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.AssemblyInfo.cs
 C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.csproj.CoreCompileInputs.cache
 C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.sourcelink.json
+C:\AulasDeOOP\AulasPOO\Umbra\bin\Debug\net8.0\Umbra.exe
+C:\AulasDeOOP\AulasPOO\Umbra\bin\Debug\net8.0\Umbra.deps.json
+C:\AulasDeOOP\AulasPOO\Umbra\bin\Debug\net8.0\Umbra.runtimeconfig.json
+C:\AulasDeOOP\AulasPOO\Umbra\bin\Debug\net8.0\Umbra.dll
+C:\AulasDeOOP\AulasPOO\Umbra\bin\Debug\net8.0\Umbra.pdb
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.dll
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\refint\Umbra.dll
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.pdb
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\Umbra.genruntimeconfig.cache
+C:\AulasDeOOP\AulasPOO\Umbra\obj\Debug\net8.0\ref\Umbra.dll
