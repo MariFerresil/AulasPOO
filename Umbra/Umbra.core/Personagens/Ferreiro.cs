@@ -2,7 +2,7 @@ namespace Umbra.core
 {
     public class Ferreiro : Personagem
     {
-        public Ferreiro() : base(500,100)
+        public Ferreiro() : base(500, 100, Especializacao.CorpoACorpo)
         {
 
         }
